@@ -28,7 +28,7 @@
 
 #  🙋 Hello
 
-<table>
+<table with="100%">
   
 <tr><td>
 
