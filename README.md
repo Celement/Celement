@@ -52,20 +52,13 @@
 - [微信公众号] &emsp; 📌 2016-07 —— 至今
 
   - 公众号：键盘蜂
-<div class="centered-image">
-  <img  align="bottom" width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
-</div>  
-<style>
-.centered-image {
-  display: flex;
+<div style="display: flex;
   justify-content: center;
   align-items: center;
-  height: 300px; /* 或者你想要的任何高度 */
-},
-.centered-image img {
-  max-width: 100%;
-  max-height: 100%;
-}
-</style>
+   height: 300px;">
+  <img  align="bottom" width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" style=" max-width: 100%;
+  max-height: 100%;" />
+</div>  
+
 
 
