@@ -44,10 +44,14 @@
 </td></tr>
 
 <tr>
-  <div with="100%">
-  <P>&emsp;&emsp; 个人公众号：键盘蜂</P>
+  <td>
+      <div with="100%">
+  <div>&emsp;&emsp; 个人公众号：键盘蜂</div>
 <img align="right" width="200" src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
-</div>
+        </div>
+  </td>
+
+
 </tr>
 
 <tr><td>
