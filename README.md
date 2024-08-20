@@ -38,8 +38,8 @@
 
 <p>&emsp;&emsp;嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</p>
 <p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
-<div>&emsp;&emsp; 个人公众号：键盘蜂<img align="right" width="200" src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" /></div>
-
+<div>&emsp;&emsp; 个人公众号：键盘蜂</div>
+<img align="right" width="200" src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
