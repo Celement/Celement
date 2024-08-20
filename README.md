@@ -52,12 +52,8 @@
 - [微信公众号] &emsp; 📌 2016-07 —— 至今
 
   - 公众号：键盘蜂
-<div style="display: flex;
-  justify-content: center;
-  align-items: center;
-   height: 300px;">
-  <img width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" style=" max-width: 100%;
-  max-height: 100%;" />
+<div align="center">
+  <img width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
 </div>  
 
 
