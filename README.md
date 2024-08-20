@@ -52,4 +52,4 @@
 - [微信公众号] &emsp; 📌 2016-07 —— 至今
 
   - 公众号：键盘蜂
-<img  align="right" width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
+<img  align="bottom" width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
