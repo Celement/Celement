@@ -54,16 +54,16 @@
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
 
-- [广州农商银行](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
+- [爱生活](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
 
-  - 工作岗位：系统开发岗
-  - 工作内容：参与网银开发与维护工作
+  - 工作岗位：java工程师
+  - 工作内容：参与软件开发
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
 
-- [浪潮](https://www.inspur.com/)   📌 2019-07 —— 2020-02
+- [爱旅游](https://www.inspur.com/)   📌 2019-07 —— 2020-02
 
-  - 工作岗位：实习生
+  - 工作岗位：golang工程师
   - 工作内容：参与软件开发
 
 
