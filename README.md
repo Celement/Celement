@@ -56,7 +56,7 @@
   justify-content: center;
   align-items: center;
    height: 300px;">
-  <img  align="bottom" width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" style=" max-width: 100%;
+  <img width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" style=" max-width: 100%;
   max-height: 100%;" />
 </div>  
 
