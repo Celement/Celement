@@ -49,7 +49,7 @@
 
 ## 🏢 Work Experience
 
-- [微信公众号] &emsp; 📌 2020-07 —— 2023-07
+- [微信公众号] &emsp; 📌 2016-07 —— 至今
 
   - 公众号：键盘蜂
-<img align="right" width="200" src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
+<img align="center" width="200" src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
