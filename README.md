@@ -13,7 +13,7 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.peterjxl.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://blog.csdn.net/qq_28943665?type=blog"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Peter-JXL&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
