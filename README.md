@@ -35,53 +35,21 @@
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
-
-<p>&emsp;&emsp;嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</p>
+<p>&emsp;&emsp;嗨，我是elementsong。热爱编程、读书、健身、旅行。</p>
 <p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
 </td></tr>
-
-<tr>
-  <td>
-      <div with="100%">
-  <div>&emsp;&emsp; 个人公众号：键盘蜂</div>
-<img align="right" width="200" src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
-        </div>
-  </td>
-
-
-</tr>
-
-<tr><td>
-
-
-
+ 
+</table>
 
 ## 🏢 Work Experience
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/GRCBank.png" />
+- [微信公众号] &emsp; 📌 2020-07 —— 2023-07
 
-- [爱生活](https://www.grcbank.com/) &emsp; 📌 2020-07 —— 2023-07
-
-  - 工作岗位：java工程师
-  - 工作内容：参与软件开发
-
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/Peter-JXL/Peter-JXL@main/assets/images/Inspur.PNG" />
-
-- [爱旅游](https://www.inspur.com/)   📌 2019-07 —— 2020-02
-
-  - 工作岗位：golang工程师
-  - 工作内容：参与软件开发
-
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-</td></tr>
-
-
-
-</table>
-
+  - 公众号：键盘蜂
+<img align="right" width="200" src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
