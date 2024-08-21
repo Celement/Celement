@@ -56,12 +56,11 @@
   <img width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
 </div>
 
-<div align="left">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=Celement&show_icons=true&theme=radical" />
+<div align="center">
+   <img width="400" height="200" align="left" src="https://github-readme-stats.vercel.app/api?username=Celement&show_icons=true&theme=radical" />
+   <img width="400" height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celement&layout=compact" />
 </div>
-<div align="right">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celement&layout=compact" />
-</div>
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Celement&theme=react-dark)
 
