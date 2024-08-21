@@ -1,6 +1,5 @@
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celement)
 <div align="center">
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celement)
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
