@@ -1,5 +1,5 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celement)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Celement)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Celement)
 <div align="center">
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
