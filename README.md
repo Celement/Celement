@@ -63,6 +63,6 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celement&layout=compact" />
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Celement)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Celement&theme=react-dark)
 
 
