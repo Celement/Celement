@@ -56,10 +56,10 @@
   <img width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
 </div>
 
-<div align="center">
+<div align="left">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=Celement&show_icons=true&theme=radical" />
 </div>
-<div align="center">
+<div align="right">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celement&layout=compact" />
 </div>
 
