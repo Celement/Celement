@@ -57,7 +57,7 @@
 </div>
 
 <div align="center">
-   <img width="400" height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=Celement&show_icons=true&theme=radical" />
+   <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Celement&show_icons=true&theme=radical" />
    <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celement&layout=compact&theme=onedark" />
 </div>
 
