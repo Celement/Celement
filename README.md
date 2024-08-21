@@ -66,6 +66,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [请帮我分析一下学软件还是学习嵌入式](https://blog.csdn.net/qq_28943665/article/details/129923656)
+- [ChatGPT助力AI办公](https://blog.csdn.net/qq_28943665/article/details/129923071)
+- [2.变量的命名](https://blog.csdn.net/qq_28943665/article/details/115475547)
+- [1.第一个 Python 程序](https://blog.csdn.net/qq_28943665/article/details/115475535)
+- [SSM框架系列文章合集](https://blog.csdn.net/qq_28943665/article/details/109897066)
 <!-- BLOG-POST-LIST:END -->
 
 
