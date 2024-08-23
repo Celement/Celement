@@ -35,8 +35,8 @@
 ### 🤺 About Me
 
 <img align="right" width="88" src="https://niu.kaelsong.top/2024-08-20_144841.png" />
-<p>&emsp;&emsp;嗨，我是elementsong。热爱编程、读书、健身、旅行。</p>
-<p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
+<p>&emsp;&emsp;嗨，我是elementsong。热爱编程、读书、游泳、旅行。</p>
+<p>&emsp;&emsp;想要每天睡到自然醒然后打dota......</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
