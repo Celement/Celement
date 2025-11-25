@@ -56,12 +56,6 @@
   <img width="200"  src="qr2.png" />
 </div>
 
-<div align="center">
-   <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Celement&show_icons=true&theme=radical" />
-   <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celement&layout=compact&theme=onedark" />
-</div>
-
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Celement&theme=react-dark)
 
 📕 &nbsp;**Latest Blog Posts**
