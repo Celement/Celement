@@ -53,7 +53,7 @@
 
   - 公众号：键盘蜂
 <div align="center">
-  <img width="200"  src="https://niu.kaelsong.top/qrcode_for_gh_ba5be2f34359_258.jpg" />
+  <img width="200"  src="qr2.png" />
 </div>
 
 <div align="center">
